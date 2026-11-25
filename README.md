@@ -28,6 +28,7 @@ A curated directory of B2B contact data, enrichment APIs, intent data and prospe
 - [Dropcontact](https://dropcontact.com/) - Dropcontact is a B2B email finder and data enrichment API that cleans and completes contact information. It guarantees GDPR compliance and does not rely on scraping or databases. Paid plans are based on enrichment volume. ([Read more](/details/dropcontact.md)) `Data Enrichment APIs` `API` `Paid` `GDPR` `Email Verification`
 - [FullContact](https://www.fullcontact.com/) - FullContact is an identity resolution and data enrichment API for B2B and B2C customer profiles. It enriches email addresses or phone numbers with demographic, professional, and social data. Developers access the service via REST APIs with paid usage. ([Read more](/details/fullcontact.md)) `Data Enrichment APIs` `API` `Paid` `Developer Tools` `Identity Resolution`
 - [People Data Labs](https://www.peopledatalabs.com/) - People Data Labs is a B2B data provider offering APIs for person and company enrichment. It supplies structured profiles, job histories, and firmographic data to developers and data teams. Access is API-based with paid usage tiers. ([Read more](/details/people-data-labs.md)) `Data Enrichment APIs` `API` `Paid` `Developer Tools`
+- [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) - Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores (Apify Actor, API + MCP, free tier).
 
 ## Intent Data
 
